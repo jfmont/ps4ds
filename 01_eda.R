@@ -89,7 +89,7 @@ ggplot(state, aes(x = Murder.Rate)) +
   theme_minimal()
 
 ###########################################################
-#########  Exploring binary and categorical data###########
+#########  Exploring binary and categorical data ##########
 ###########################################################
 
 urlfile2 <- "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/master/data/dfw_airline.csv"
